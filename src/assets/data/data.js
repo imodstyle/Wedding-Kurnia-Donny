@@ -2,18 +2,18 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Donny Rahardika',
+            child: 'Putra ke Dua',
+            father: '(alm) Rustam)',
+            mother: 'Sudarti',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Kurnia Lita Hanari',
+            child: 'Putri ke Dua',
+            father: 'Uri',
+            mother: 'Siti Hanna',
             image: './src/assets/images/cewe.png'
         },
 
@@ -22,31 +22,31 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2030',
+            year: '2025',
             month: 'November',
-            date: '14',
-            day: 'Kamis',
+            date: '30',
+            day: 'Minggu',
             hours: {
-                start: '08.00',
-                finish: 'Selesai'
+                start: '09.00',
+                finish: '10.00'
             }
         },
         reception: {
-            year: '2024',
+            year: '2025',
             month: 'November',
-            date: '14',
+            date: '30',
             day: 'Kamis',
             hours: {
                 start: '11.00',
-                finish: 'Selesai'
+                finish: '16.00'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Ruang AULA Sekolah Menengah Atas Al-HUDA, Cengakreng Barat, Kota Jakarta Barat.'
     },
 
     link: {
-        calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        calendar: 'https://calendar.app.google/7LiLjB7M1FXPkrMC7',
+        map: 'https://maps.app.goo.gl/onGVbDjntyA3uhun6',
     },
 
     galeri: [
@@ -75,13 +75,13 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
+            name: 'Donny Rahardika',
             icon: './src/assets/images/bca.png',
             rekening: '12345678'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
+            name: 'Kurnia Lita Hanari',
             icon: './src/assets/images/bri.png',
             rekening: '12345678'
         },
@@ -89,7 +89,7 @@ export const data = {
 
     audio: './src/assets/audio/wedding.mp3',
 
-    api: 'https://script.google.com/macros/s/AKfycbyydz6N4p2VWUG8zsXeURv6ap9RP8a4eC3x6N3x6qTDjMVr1cIBz9S0NsHw2rWvBOSXGg/exec',
+    api: 'https://script.google.com/macros/s/AKfycbyo-eL0MdMwcJg1vRj_DWUEcSHZpjew9ZQqKFfOaGiGYoMSSc2_sWx0aaP70md2yiaV/exec',
 
     navbar: [
         {
