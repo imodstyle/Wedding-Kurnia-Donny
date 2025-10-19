@@ -6,7 +6,7 @@ export const data = {
             child: 'Putra ke Dua',
             father: '(alm) Rustam',
             mother: 'Sudarti',
-            image: './src/assets/images/cowo.jpg'
+            image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
@@ -14,10 +14,10 @@ export const data = {
             child: 'Putri ke Dua',
             father: 'Uri',
             mother: 'Siti Hanna',
-            image: './src/assets/images/cewe.jpg'
+            image: './src/assets/images/cewe.png'
         },
 
-        couple: './src/assets/images/couple.jpg'
+        couple: './src/assets/images/couple.png'
     },
 
     time: {
@@ -52,23 +52,23 @@ export const data = {
     galeri: [
         {
             id: 1,
-            image: './src/assets/images/1.jpg'
+            image: './src/assets/images/1.png'
         },
         {
             id: 2,
-            image: './src/assets/images/2.jpg'
+            image: './src/assets/images/2.png'
         },
         {
             id: 3,
-            image: './src/assets/images/3.jpg'
+            image: './src/assets/images/3.png'
         },
         {
             id: 4,
-            image: './src/assets/images/4.jpg'
+            image: './src/assets/images/4.png'
         },
         {
             id: 5,
-            image: './src/assets/images/5.jpg'
+            image: './src/assets/images/5.png'
         }
     ],
 
