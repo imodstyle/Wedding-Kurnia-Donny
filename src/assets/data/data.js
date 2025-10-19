@@ -1,20 +1,20 @@
 export const data = {
     bride: {
-        P: {
-            id: 1,
-            name: 'Kurnia Lita Hanari',
-            child: 'Putri ke Dua',
-            father: 'Uri',
-            mother: 'Siti Hanna',
-            image: './src/assets/images/cewe.png'
-        },
         L: {
-            id: 2,
+            id: 1,
             name: 'Donny Rahardika',
             child: 'Putra ke Dua',
             father: 'Rustam (alm)',
             mother: 'Sudarti',
             image: './src/assets/images/cowo.png'
+        },
+        P: {
+            id: 2,
+            name: 'Kurnia Lita Hanari',
+            child: 'Putri ke Dua',
+            father: 'Uri',
+            mother: 'Siti Hanna',
+            image: './src/assets/images/cewe.png'
         },
 
         couple: './src/assets/images/couple.png'
