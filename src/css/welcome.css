@@ -31,7 +31,7 @@
 
 .welcome h2 {
     font-size: 2.4rem;
-    font-family: 'Parisienne', sans-serif;
+    font-family: 'Great Vibes', sans-serif;
     font-weight: 400;
 }
 
@@ -54,7 +54,7 @@
 
 .welcome figure figcaption {
     font-size: var(--fontSize-heading-base);
-    font-family: var(--parisienne);
+    font-family: 'Great Vibes', sans-serif;
     font-weight: 400;
     margin-top: 0.5rem;
 }
