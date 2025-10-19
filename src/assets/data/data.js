@@ -4,7 +4,7 @@ export const data = {
             id: 1,
             name: 'Donny Rahardika',
             child: 'Putra ke Dua',
-            father: '(alm) Rustam',
+            father: 'Rustam (alm)',
             mother: 'Sudarti',
             image: './src/assets/images/cowo.png'
         },
