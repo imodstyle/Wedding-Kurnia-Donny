@@ -1,7 +1,7 @@
 export const data = {
     bride: {
         L: {
-            id: 1,
+            id: 2,
             name: 'Donny Rahardika',
             child: 'Putra ke Dua',
             father: 'Rustam (alm)',
@@ -9,7 +9,7 @@ export const data = {
             image: './src/assets/images/cowo.png'
         },
         P: {
-            id: 2,
+            id: 1,
             name: 'Kurnia Lita Hanari',
             child: 'Putri ke Dua',
             father: 'Uri',
