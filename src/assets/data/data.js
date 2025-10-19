@@ -4,9 +4,9 @@ export const data = {
             id: 1,
             name: 'Donny Rahardika',
             child: 'Putra ke Dua',
-            father: '(alm) Rustam)',
+            father: '(alm) Rustam',
             mother: 'Sudarti',
-            image: './src/assets/images/cowo.png'
+            image: './src/assets/images/cowo.jpg'
         },
         P: {
             id: 2,
@@ -14,10 +14,10 @@ export const data = {
             child: 'Putri ke Dua',
             father: 'Uri',
             mother: 'Siti Hanna',
-            image: './src/assets/images/cewe.png'
+            image: './src/assets/images/cewe.jpg'
         },
 
-        couple: './src/assets/images/couple.png'
+        couple: './src/assets/images/couple.jpg'
     },
 
     time: {
@@ -52,23 +52,23 @@ export const data = {
     galeri: [
         {
             id: 1,
-            image: './src/assets/images/1.png'
+            image: './src/assets/images/1.jpg'
         },
         {
             id: 2,
-            image: './src/assets/images/2.png'
+            image: './src/assets/images/2.jpg'
         },
         {
             id: 3,
-            image: './src/assets/images/3.png'
+            image: './src/assets/images/3.jpg'
         },
         {
             id: 4,
-            image: './src/assets/images/4.png'
+            image: './src/assets/images/4.jpg'
         },
         {
             id: 5,
-            image: './src/assets/images/5.png'
+            image: './src/assets/images/5.jpg'
         }
     ],
 
@@ -82,7 +82,7 @@ export const data = {
         {
             id: 2,
             name: 'Kurnia Lita Hanari',
-            icon: './src/assets/images/bri.png',
+            icon: './src/assets/images/bca.png',
             rekening: '12345678'
         },
     ],
