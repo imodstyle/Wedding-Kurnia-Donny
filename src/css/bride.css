@@ -19,6 +19,13 @@
     margin: 1rem 0;
 }
 
+.bride p {
+    font-size: 1.2rem;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    margin: 1rem 0;
+}
+
 .bride .bride_couple,
 .bride .bride_couple ul,
 .bride .bride_couple li,
@@ -48,6 +55,12 @@
 
 .bride .bride_couple li figure figcaption {
     font-size: var(--fontSize-heading-base);
+    margin: 1rem 0;
+    font-family: var(--display-font);
+}
+
+.bride .bride_couple li p {
+    font-size: 1.2rem;
     margin: 1rem 0;
     font-family: var(--display-font);
 }
