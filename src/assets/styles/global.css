@@ -4,7 +4,7 @@
 
     --fontSize-heading-lg: 3.2rem;
     --fontSize-heading-base: 3rem;
-    --fontSize-text-base: 1.1rem;
+    --fontSize-text-base: 1.5rem;
 
     --display-font: 'Tangerine', cursive;
     --arabic: 'Noto Naskh Arabic', serif;
@@ -46,8 +46,8 @@ p {
 }
 
 .audio button {
-    width: 2rem;
-    height: 2rem;
+    width: 3rem;
+    height: 3rem;
     border-radius: 50%;
     border: none;
     background-color: #fff;
