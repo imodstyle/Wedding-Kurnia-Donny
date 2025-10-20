@@ -62,7 +62,7 @@
 .bride .bride_couple li p {
     font-size: 1.2rem;
     margin: 1rem 0;
-    font-family: var(--display-font);
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .bride .bride_couple span {
