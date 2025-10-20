@@ -4,7 +4,7 @@
 
     --fontSize-heading-lg: 3.2rem;
     --fontSize-heading-base: 3rem;
-    --fontSize-text-base: 1.5rem;
+    --fontSize-text-base: 1.2rem;
 
     --display-font: 'Tangerine', cursive;
     --arabic: 'Noto Naskh Arabic', serif;
@@ -52,7 +52,7 @@ p {
     border: none;
     background-color: #fff;
     color: #000;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     display: flex;
     align-items: center;
     justify-content: center;

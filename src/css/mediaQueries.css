@@ -117,7 +117,7 @@
     }
 
     .galeri div:nth-of-type(2) button {
-        font-size: 1.4rem;
+        font-size: 1.2rem;
     }
 
     .galeri > i {
@@ -186,6 +186,6 @@
     }
 
     footer > div a {
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
 }

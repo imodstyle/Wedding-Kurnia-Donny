@@ -64,19 +64,19 @@
 }
 
 .home .home-time div p {
-    font-size: 1.2rem;
+    font-size: 1rem;
     line-height: normal;
 }
 
 .home .home-time div p span {
-    font-size: 1rem;
+    font-size: 0.8rem;
     margin-top: 0.2rem;
 }
 
 .home a {
     padding: 0.5rem 1rem;
     color: #fff;
-    font-size: 1,2rem;
+    font-size: 1.2rem;
     background-color: #000;
     margin: 1rem auto;
     border-radius: 20px;
@@ -88,10 +88,11 @@
 }
 
 .home a i {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 .home .scroll_down {
+    font-size: 1.2rem;
     display: flex;
     align-items: center;
     justify-content: center;

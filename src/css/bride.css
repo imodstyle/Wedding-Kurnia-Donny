@@ -7,7 +7,7 @@
 }
 
 .bride h2 {
-    font-size: 1.6rem;
+    font-size: 2rem;
     font-family: var(--arabic);
     font-weight: 400;
 }
@@ -110,7 +110,7 @@
 .hadist p span {
     display: block;
     margin-top: 1rem;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 
 .hadist i {
